@@ -13,6 +13,7 @@ object demo1 {
     y(1)="lucy"
     y(2)="jum"
     println(y(1))
+    asdsdasdasdasdasdasd
     var x = Array("zara","lucy","tom")
     println(x(2))
 
